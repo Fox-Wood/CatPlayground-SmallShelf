@@ -1,1 +1,1 @@
-# CatPlayground-MediumShelf
+# CatPlayground-SmallShelf
